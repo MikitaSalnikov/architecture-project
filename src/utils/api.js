@@ -1,6 +1,6 @@
 // Этот ключ используется для эмуляции API tasks service
 const storageKey = 'ya-arch-tasks-1';
-// Эта коллекция используется для эмулации API tasks service
+// Эта коллекция используется для эмуляции API tasks service
 const sampleData = [
     {
         id: 1,
@@ -24,7 +24,7 @@ const sampleData = [
     },
     {
         id: 5,
-        title: 'Пробный зануск',
+        title: 'Пробный запуск',
         checked: false,
     },
     {
